@@ -8,6 +8,7 @@
 
 - [Clase Práctica 1](course-2023-2024/practical-classes/01-practical-class.ipynb)
 - [Clase Práctica 2](course-2023-2024/practical-classes/02-practical-class.ipynb)
+- [Clase Práctica 3](course-2023-2024/practical-classes/03-practical-class.ipynb)
 
 ## Tutoriales
 
